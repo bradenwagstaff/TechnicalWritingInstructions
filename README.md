@@ -8,56 +8,63 @@
     
 Learn to navigate the terminal.
 Main commands:  
-`cd` - change directory  
-`pwd` - print working directory  
+`cd` - change directory
 `ls` - list files  
 `mkdir` - create directory  
-`touch` - create file  
-`code .` - open VSCode in the current directory
+`touch` - create file
+`nano` - edit file
 
-Start with open terminal
+1. Start with open terminal
 
-run `cd` to go to the home directory  
+2. The `cd` command stands for *change directory*. It is used to navigate through directories.  
+To go to the home directory, type `cd` and press enter.
 
-run `ls` to list all files in that directory  
+3. We should now be in the home directory. This is sometimes called the *root*. It would be nice to see what files and folders are in the root.  
+Run `ls` to list all files in that directory.
 
-pick one of the folders and run `cd folder_name` to go into that folder 
+4. We're going to navigate into one of these folders to practice changing directories.  
+Pick a folder and run `cd folder_name` to go into that folder. *Replace `folder_name` with the name of the folder you want to go into*.
 
-For example if `Desktop` is a folder I would run `cd Desktop`  
+5. Run `ls` to see the files and folders in the directory you just navigated to.
 
-To create a folder run `mkdir folder_name`  
+6. To move backwards a directory, you can run `cd ..`. This will take you back to the previous directory.  
+Run `cd ..` to go back one directory.
 
-For example if I wanted to create a folder called `test` I would run `mkdir test`  
+You can now navigate through directories in the terminal. Now it's time to create our own folder.
 
-Navigate to that folder by running `cd test`  
+7. Let's create a folder in this directory. The `mkdir` command stands for *make directory*. We're going to create a folder called `instruction_project`. 
+Run `mkdir instruction_project`.
 
-You should now be in the `test` folder   
+8. Run `ls` to see the folder you just created. You should see `instruction_project` listed.
 
-Create a file called `test.txt` by running `touch test.txt`  
+9. Navigate into the `instruction_project` folder by running `cd instruction_project`.
 
-Run `ls` to see the file you just created   
+10. Run `ls` to see the files and folders in the `instruction_project` directory. It should be empty. Let's add some files.
 
-To move backwards a directory run `cd ..`  
+The `touch` command is used to create files. We're going to create a file called `test.py`.
 
-You should now be in the folder you were in before you navigated to the `test` folder  
+11. Run `touch test.py` to create the file.
 
+12. Run `ls` to verify that the file was created.
 
-You now know how to navigate throughouy the terminal.
+We can edit this file in the terminal by using a command called `nano`. We're going to open the `test.py` file and write a simple Python program.
 
-Navigate back to the home directory by running `cd`  
+13. Run `nano test.py` to open the file in the terminal.
 
-Create a folder called `instruction_project` by running `mkdir instruction_project`  
+This may look confusing at first, but it's actually quite simple. We are going to write a few python commands, save the file, and then run the file. First we want to write a simple program that prints "Hello, World!".
 
-Navigate to that folder by running `cd instruction_project`  
-
-Create a file called `test.py` by running `touch test.py`  
-
-We're going to open this directory in VSCode by running `code .`
-
-
-
+14. Write the following code in the `test.py` file:
+```python
+print("Hello, World!")
 ```
-Testing
-```
 
-## Results
+15. To save the file, press `ctrl + x`. You will be prompted to save the file. Press `y` to save the file. Then press `enter` to confirm the file name.
+
+16. Run `python test.py` to run the file. You should see "Hello, World!" printed in the terminal.
+
+
+
+
+
+
+
