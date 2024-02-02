@@ -1,10 +1,9 @@
 # Instruction Project
 
 ## Description
+The purpose of these instructions is to teach you how to navigate the terminal and create a simple Python program. This is a basic introduction to the terminal and Python programming.
 
 ## Steps
-
-### Terminal
     
 Learn to navigate the terminal.
 Main commands:  
@@ -74,10 +73,7 @@ print("Correct!")
 
 17. Complete the survey at https://qualtricsxm8byd6wvxh.qualtrics.com/jfe/form/SV_2huvS2HPXeqO6zQ
     
+## Troubleshooting
 
-
-
-
-
-
+> If a command doesn't work, or comes back with an error, make sure you typed the command correctly.
 
