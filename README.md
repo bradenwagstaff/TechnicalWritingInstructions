@@ -51,16 +51,26 @@ We can edit this file in the terminal by using a command called `nano`. We're go
 
 13. Run `nano test.py` to open the file in the terminal.
 
-This may look confusing at first, but it's actually quite simple. We are going to write a few python commands, save the file, and then run the file. First we want to write a simple program that prints "Hello, World!".
+This may look confusing at first, but it's actually quite simple. We are going to write a few python commands, save the file, and then run the file. First we want to write a simple program that creates a simple integer guessing game.
 
 14. Write the following code in the `test.py` file:
 ```python
-print("Hello, World!")
+import random
+n = random.randrange(1,10)
+while True:
+    guess = int(input("Enter a guess: "))
+    if guess < n:
+        print("Too low, try again.")
+    elif guess > n:
+        print("Too high, try again.")
+    else:
+      break
+print("Correct!")
 ```
 
 15. To save the file, press `ctrl + x`. You will be prompted to save the file. Press `y` to save the file. Then press `enter` to confirm the file name.
 
-16. Run `python test.py` to run the file. You should see "Hello, World!" printed in the terminal.
+16. Run `python test.py` to run the file. You should see "Enter a guess" printed in the terminal.
 
 17. Complete the survey at https://qualtricsxm8byd6wvxh.qualtrics.com/jfe/form/SV_2huvS2HPXeqO6zQ
     
