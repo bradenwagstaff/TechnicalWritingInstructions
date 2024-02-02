@@ -8,10 +8,10 @@
     
 Learn to navigate the terminal.
 Main commands:  
-`cd` - change directory
+`cd` - change directory  
 `ls` - list files  
 `mkdir` - create directory  
-`touch` - create file
+`touch` - create file  
 `nano` - edit file
 
 1. Start with open terminal
