@@ -62,6 +62,9 @@ print("Hello, World!")
 
 16. Run `python test.py` to run the file. You should see "Hello, World!" printed in the terminal.
 
+17. Complete the survey at https://qualtricsxm8byd6wvxh.qualtrics.com/jfe/form/SV_2huvS2HPXeqO6zQ
+    
+
 
 
 
