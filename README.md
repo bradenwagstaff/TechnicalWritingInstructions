@@ -3,6 +3,12 @@
 ## Description
 The purpose of these instructions is to teach you how to navigate the terminal and create a simple Python program. This is a basic introduction to the terminal and Python programming.
 
+## Materials
+To complete this tutorial successfully, you will need to have the following:  
+- A computer with a UNIX-terminal open. Any Mac or Linux terminal will work.
+> If you are using Windows, you must use the Windows Subsystem for Linux (WSL) or terminal emulator such as Git Bash.
+- Your machine must have python installed
+
 ## Steps
     
 Learn to navigate the terminal.
@@ -71,9 +77,12 @@ print("Correct!")
 
 16. Run `python test.py` to run the file. You should see "Enter a guess" printed in the terminal.
 
-17. Complete the survey at https://qualtricsxm8byd6wvxh.qualtrics.com/jfe/form/SV_2huvS2HPXeqO6zQ
+17. Run the program until you guess the number correctly and the program exits automatically. 
+
+18. Complete the survey at https://qualtricsxm8byd6wvxh.qualtrics.com/jfe/form/SV_2huvS2HPXeqO6zQ
     
 ## Troubleshooting
 
 > If a command doesn't work, or comes back with an error, make sure you typed the command correctly.
+> You may get an error message telling you that you were unable to execute the python file. If this error comes up, enter python -version in the terminal. If you get a message saying that you don't have python installed, [install python](https://wiki.python.org/moin/BeginnersGuide/Download).
 
