@@ -1,4 +1,4 @@
-# Instruction Project
+# Using the Terminal to Create a Directory, Make a File, and Write and Execute a Python Program
 
 ## Description
 The purpose of these instructions is to teach you how to navigate the terminal and create a simple Python program. This is a basic introduction to the terminal and Python programming.
