@@ -83,6 +83,6 @@ print("Correct!")
     
 ## Troubleshooting
 
-> If a command doesn't work, or comes back with an error, make sure you typed the command correctly.
-> You may get an error message telling you that you were unable to execute the python file. If this error comes up, enter python -version in the terminal. If you get a message saying that you don't have python installed, [install python](https://wiki.python.org/moin/BeginnersGuide/Download).
+* If a command doesn't work, or comes back with an error, make sure you typed the command correctly.
+* You may get an error message telling you that you were unable to execute the python file. If this error comes up, enter python -version in the terminal. If you get a message saying that you don't have python installed, [install python](https://wiki.python.org/moin/BeginnersGuide/Download).
 
