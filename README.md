@@ -40,7 +40,8 @@ You can now navigate through directories in the terminal. Now it's time to creat
 7. Let's create a folder in this directory. The `mkdir` command stands for *make directory*. We're going to create a folder called `instruction_project`. 
 Run `mkdir instruction_project`.
 
-8. Run `ls` to see the folder you just created. You should see `instruction_project` listed.
+
+8. Run `ls` to see the folder you just created. You should see `instruction_project` listed.![Screenshot 2024-02-12 at 8 58 57 AM](https://github.com/bradenwagstaff/TechnicalWritingInstructions/assets/156482224/d60945a6-a467-4a5f-9ad7-ca30369d4d7a)
 
 9. Navigate into the `instruction_project` folder by running `cd instruction_project`.
 
@@ -50,7 +51,8 @@ The `touch` command is used to create files. We're going to create a file called
 
 11. Run `touch test.py` to create the file.
 
-12. Run `ls` to verify that the file was created.
+12. Run `ls` to verify that the file was created.![Screenshot 2024-02-12 at 9 02 20 AM](https://github.com/bradenwagstaff/TechnicalWritingInstructions/assets/156482224/c309cd2a-bc3e-45bc-a15f-88448cfe654b)
+
 
 We can edit this file in the terminal by using a command called `nano`. We're going to open the `test.py` file and write a simple Python program.
 
@@ -77,7 +79,8 @@ print("Correct!")
 
 16. Run `python test.py` to run the file. You should see "Enter a guess" printed in the terminal.
 
-17. Run the program until you guess the number correctly and the program exits automatically. 
+17. Run the program until you guess the number correctly and the program exits automatically. ![Screenshot 2024-02-12 at 9 05 49 AM](https://github.com/bradenwagstaff/TechnicalWritingInstructions/assets/156482224/1fb51377-910e-4619-b37a-06e6dd6a06b4)
+
 
 18. Complete the survey at https://qualtricsxm8byd6wvxh.qualtrics.com/jfe/form/SV_2huvS2HPXeqO6zQ
     
