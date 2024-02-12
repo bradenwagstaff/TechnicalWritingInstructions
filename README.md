@@ -41,7 +41,8 @@ You can now navigate through directories in the terminal. Now it's time to creat
 Run `mkdir instruction_project`.
 
 
-8. Run `ls` to see the folder you just created. You should see `instruction_project` listed.![Screenshot 2024-02-12 at 8 58 57 AM](https://github.com/bradenwagstaff/TechnicalWritingInstructions/assets/156482224/d60945a6-a467-4a5f-9ad7-ca30369d4d7a)
+8. Run `ls` to see the folder you just created. You should see `instruction_project` listed.![Screenshot 2024-02-12 at 8 58 57 AM](https://github.com/bradenwagstaff/TechnicalWritingInstructions/assets/156482224/45eb11e2-e945-4308-ac9a-57ef36c5c6c9)
+
 
 9. Navigate into the `instruction_project` folder by running `cd instruction_project`.
 
